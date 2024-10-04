@@ -1,0 +1,15 @@
+{
+  "name": "error-example",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev"
+  },
+  "dependencies": {
+    "@cloudflare/workers-types": "^4.20240925.0",
+    "ethers-v5": "npm:ethers@5.7.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2",
+    "wrangler": "^3.80.0"
+  }
+}
